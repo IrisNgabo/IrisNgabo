@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Ngabo Iris
--😎 I'm interested in learning new things
-- 🌱 I’m currently learning java and c++
-- 📫 How to reach me via ngaboiris77@gmail.com
+- 👋 Hi, I’m Ngabo Iris.
+-😎 I'm interested in learning new things.
+- 🌱 I’m currently learning java.
+- 📫 How to reach me via ngaboiris77@gmail.com.
 
 <!---
 IrisNgabo/IrisNgabo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
