@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ngabo Iris
 - 🌱 I’m currently learning java and c++
--
 - 📫 How to reach me via ngaboiris77@gmail.com
 
 <!---
