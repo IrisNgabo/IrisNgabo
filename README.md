@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ngabo Iris.
-- 🌱 I’m currently learning java.
+- 🌱 I’m currently learning '
 - 📫 How to reach me via ngaboiris77@gmail.com.
 
 <!---
